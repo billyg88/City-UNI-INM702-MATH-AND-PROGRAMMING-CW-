@@ -1,0 +1,16 @@
+
+THE EMOTION DATASET IS FOUND AT:
+https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset?
+
+
+
+The files used are:
+
+	Train
+		Angry 
+		Sad
+		Happy 
+		Fear 
+	Test 
+		Same
+		
